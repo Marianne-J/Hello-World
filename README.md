@@ -2,7 +2,7 @@
 
 This software is a simple "Hello World" program. I created it with the purpose of refreshing myself on Python and using Git / GitHub, as well as practicing using the two together.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[]()
 
 # Development Environment
 
